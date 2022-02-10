@@ -33,6 +33,7 @@ Node : Version 16.13.1
 
 Oracle : Version ojdbc8
 
+
 Spring Boot Framework : Version 2.6.3
 
 b. Hardware Requirements
