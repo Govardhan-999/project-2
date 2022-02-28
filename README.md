@@ -15,6 +15,7 @@ Hence this project offers an effective solution where users can view various boo
 This system also allows users to cancel their booking anytime. 
 The application uses Angular as a front-end , SpringBoot & SQL database as the back-end
 
+
 Environment / Technologies
 ==========================
 Functional Requirement
